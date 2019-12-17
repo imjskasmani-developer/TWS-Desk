@@ -1,0 +1,130 @@
+@font-face {
+	src: url('../fonts/Roboto-Regular.ttf');
+	font-family: roboto;
+}
+body {
+	font-family: roboto;
+}
+.container {
+	margin-top: 36px;
+}
+.monthly {
+	color: #5a6279;
+}
+.monthly img {
+	padding-left: 8px;
+}
+.monthly p {
+	line-height: 0;
+	font-size: 13px;
+}
+.top-head {
+	margin-bottom: 25px;
+}
+.client{
+	background-color: #566376;
+	padding: 5px;
+	color: #ffffff;
+}
+.ticket {
+	border: 1px solid #d5d8dd;
+	padding: 14px;
+	margin-top: 8px;	
+}
+.ticket img {
+	margin-right: 5px;
+}
+.texts h5, p{
+	font-weight: bold;
+}
+.ticket p {
+	color: #575759;
+	font-size: 12px;
+}
+.pad {
+	padding: 18px 1px 1px 12px;
+}
+.projects {
+	color: #2c5873;
+}
+.t230 {
+	color: #912b8f;
+}
+.t400 {
+	color: #0d4e9e;
+}
+.h1600 {
+	color: #2096a4;
+}
+.marg {
+	margin-top: 20px;
+}
+.house {
+	color: #ffffff;
+	background-color: #566376;
+}
+.house h4 {
+	padding: 5px 10px;
+}
+.marketing{
+	border: 1px solid #d5d8dd;
+	padding: 20px 20px;
+}
+.marketing img {
+	margin-right: 18px;
+}
+.markimg {
+	margin-top: 15px;
+}
+.green {
+	color: #3f511d;
+	line-height: 25px;
+}
+.blue {
+	color: #0e9ad8;
+}
+.increase {
+	padding: 34.7px 20px;
+}
+.fraud {
+	margin-top: 25px;
+}
+.cyan {
+	color: #19a9aa;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.upsell {
+	border: 2px solid #d5d8dd;
+	padding: 5px 0 10px 20px;
+}
+.upsell img {
+	margin-right: 27px;
+}
+.uptext {
+	margin-top: 10px;
+}
+.uk {
+	color: #0d4f9b;	
+}
+.gray {
+	color: #555557;
+}
+p.gray {
+	font-size: 18px;
+	font-weight: lighter;
+}
+.usa {
+	color: #cd1e47;
+}
+footer {
+	text-align: center;
+	height: 60px;
+	background-color: #566376;
+	color: #ffffff;
+	margin-top: 30px;
+}
+footer p {
+	font-weight: lighter;
+	padding-top: 28px;
+}
